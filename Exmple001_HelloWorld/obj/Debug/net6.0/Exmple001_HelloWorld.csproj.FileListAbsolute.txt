@@ -1,0 +1,15 @@
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.exe
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.deps.json
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.runtimeconfig.json
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.dll
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.pdb
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.AssemblyInfo.cs
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.dll
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\refint\Exmple001_HelloWorld.dll
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.pdb
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.genruntimeconfig.cache
+C:\Users\kozun\OneDrive\Рабочий стол\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\ref\Exmple001_HelloWorld.dll
